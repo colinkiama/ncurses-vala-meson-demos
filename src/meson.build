@@ -12,7 +12,6 @@ executable(
   install: true
 )
 
-
 executable(
   'two-windows',
   'two-windows.vala',
@@ -117,4 +116,3 @@ executable(
   dependencies: dependencies,
   install: true
 )
-
